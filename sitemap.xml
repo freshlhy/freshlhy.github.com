@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://freshlhy.github.com/blog/2013/02/06/test/</loc>
+        <lastmod>2013-02-06T00:10:26+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://freshlhy.github.com/blog/archives/</loc>
-        <lastmod>2013-02-05T23:56:34+08:00</lastmod>
+        <lastmod>2013-02-06T00:10:26+08:00</lastmod>
     </url>
     <url>
         <loc>http://freshlhy.github.com/</loc>
-        <lastmod>2013-02-05T23:56:34+08:00</lastmod>
+        <lastmod>2013-02-06T00:10:26+08:00</lastmod>
     </url>
     <url>
         <loc>http://freshlhy.github.com/robots.txt</loc>
